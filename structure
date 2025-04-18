@@ -1,0 +1,30 @@
+/scholarship-portal
+├── app/                   # Next.js app directory
+│   ├── dashboard/         # Admin and reviewer dashboards
+│   ├── apply/             # Application form module
+│   ├── scholarships/      # Listings page
+│   ├── auth/              # Auth-related routes and pages
+│   ├── onboarding/        # Multi-step onboarding form
+│   └── layout.tsx         # Framer Motion transitions
+│
+├── components/            # Shadcn/ui components
+│   ├── forms/             # Dynamic forms, inputs, validators
+│   ├── ui/                # Buttons, cards, modals
+│   └── animations/        # Reusable Framer Motion wrappers
+│
+├── lib/                   # Utility functions
+│   ├── base/              # Base SDK integrations
+│   ├── groq/              # Groq API logic
+│   ├── stellar/           # Stellar disbursement utils
+│   └── auth/              # Firebase/Auth0 auth
+│
+├── prisma/                # Prisma schema and migrations
+├── public/                # Static assets
+├── styles/                # Tailwind + Global styles
+├── types/                 # Global TypeScript types
+└── pages/api/             # Backend logic (Next.js API Routes)
+    ├── auth/              # Login, logout, session
+    ├── users/             # CRUD for users
+    ├── scholarships/      # Scholarship API routes
+    ├── applications/      # Submissions + Groq eval
+    └── disbursements/     # Fund release via Stellar
