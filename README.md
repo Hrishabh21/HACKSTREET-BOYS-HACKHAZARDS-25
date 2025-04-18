@@ -25,7 +25,7 @@ Briefly describe the real-world use case and the value it provides.
 ## 🧠 Team & Approach
 
 ### Team Name:  
-`Your team name here`
+`HACKSTREET BOYS`
 
 ### Team Members:  
 - Name 1 (GitHub / LinkedIn / Role)  
@@ -55,7 +55,7 @@ Briefly describe the real-world use case and the value it provides.
 - [ ] **Fluvio:** _Real-time data handling_  
 - [ ] **Base:** _AgentKit / OnchainKit / Smart Wallet usage_  
 - [ ] **Screenpipe:** _Screen-based analytics or workflows_  
-- [ ] **Stellar:** _Payments, identity, or token usage_
+- [✅] **Stellar:** _Payments, identity, or token usage_
 *(Mark with ✅ if completed)*
 ---
 
