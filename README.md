@@ -3,7 +3,7 @@
 # 🚀 Decentralized Scholarship Portal
 
 > A one-line tagline or mission statement for your project.
-
+Revolutionizing Scholarship system
 ---
 
 ## 📌 Problem Statement
