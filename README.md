@@ -1,24 +1,27 @@
 ![github-submission-banner](https://github.com/user-attachments/assets/a1493b84-e4e2-456e-a791-ce35ee2bcf2f)
 
-# 🚀 Decentralized Scholarship Portal
+# 🚀 ScholarX – Real-Time Educational Scholarship Portal
 
-> A one-line tagline or mission statement for your project.
-Revolutionizing Scholarship system
+> Revolutionizing the scholarship system through real-time, transparent, and intelligent automation.
+
 ---
 
 ## 📌 Problem Statement
 
-Select the problem statement number and title from the official list given in Participant Manual.
-
-**Example:**  
-**Problem Statement 7 – Transform the Future of Rural Commerce**
+**Problem Statement 6 – Better Finance for Everyone with Stellar**  
+**Objective:**  
+Develop innovative applications on Stellar that leverage its fast, low-cost blockchain to create secure, scalable solutions for finance, creativity, and accessibility, empowering diverse users and communities worldwide.
 
 ---
 
 ## 🎯 Objective
 
-What problem does your project solve, and who does it serve?  
-Briefly describe the real-world use case and the value it provides.
+ScholarX is a real-time educational scholarship portal designed to streamline the entire process of scholarship applications—from onboarding to intelligent evaluation and fund disbursement. It serves both applicants and scholarship providers by providing a transparent, efficient, and secure system.
+
+The platform:
+- Authenticates users via Firebase
+- Evaluates applications using Groq (Mixtral-8x7B)
+- Disburses funds securely via the Stellar blockchain
 
 ---
 
@@ -31,44 +34,37 @@ Briefly describe the real-world use case and the value it provides.
 - Name 1 (GitHub / LinkedIn / Role)  
 - Name 2  
 - Name 3  
-*(Add links if you want)*
 
-### Your Approach:  
-- Why you chose this problem  
-- Key challenges you addressed  
-- Any pivots, brainstorms, or breakthroughs during hacking  
+### Our Approach:  
+- Chose this problem to address inefficiencies in the traditional scholarship process  
+- Solved issues related to real-time evaluation, security, and disbursement  
+- Pivoted from using Base to Firebase for onboarding and authentication due to integration simplicity  
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Core Technologies Used:
-- Frontend:
-- Backend:
-- Database:
-- APIs:
-- Hosting:
+- **Frontend:** Next.js, TailwindCSS  
+- **Backend:** Next.js API Routes, Firebase Auth  
+- **Database:** Firebase Firestore  
+- **APIs & AI:** Groq (Mixtral-8x7B)  
+- **Payments:** Stellar SDK  
+- **Hosting:** Vercel / Firebase Hosting
 
-### Sponsor Technologies Used (if any):
-- [ ] **Groq:** _How you used Groq_  
-- [ ] **Monad:** _Your blockchain implementation_  
-- [ ] **Fluvio:** _Real-time data handling_  
-- [ ] **Base:** _AgentKit / OnchainKit / Smart Wallet usage_  
-- [ ] **Screenpipe:** _Screen-based analytics or workflows_  
-- [✅] **Stellar:** _Payments, identity, or token usage_
-*(Mark with ✅ if completed)*
+### Sponsor Technologies Used:
+- ✅ **Stellar:** Used for secure and low-cost fund disbursement  
+- ✅ **Groq:** Used for real-time evaluation of applicant data  
+
 ---
 
 ## ✨ Key Features
 
-Highlight the most important features of your project:
-
-- ✅ Feature 1  
-- ✅ Feature 2  
-- ✅ Feature 3  
-- ✅ Feature 4  
-
-Add images, GIFs, or screenshots if helpful!
+- ✅ User onboarding with Firebase Auth  
+- ✅ Real-time application status tracking  
+- ✅ Intelligent evaluation via Groq AI  
+- ✅ Secure fund disbursement via Stellar  
+- ✅ Scalable architecture with Next.js and Firebase  
 
 ---
 
@@ -81,58 +77,23 @@ Add images, GIFs, or screenshots if helpful!
 
 ## ✅ Tasks & Bonus Checklist
 
-- [ ] **All members of the team completed the mandatory task - Followed at least 2 of our social channels and filled the form** (Details in Participant Manual)  
-- [ ] **All members of the team completed Bonus Task 1 - Sharing of Badges and filled the form (2 points)**  (Details in Participant Manual)
-- [ ] **All members of the team completed Bonus Task 2 - Signing up for Sprint.dev and filled the form (3 points)**  (Details in Participant Manual)
-
-*(Mark with ✅ if completed)*
+- [ ] All members followed social channels and filled the form  
+- [ ] Bonus Task 1 - Shared badges (2 points)  
+- [ ] Bonus Task 2 - Signed up for Sprint.dev (3 points)
 
 ---
 
 ## 🧪 How to Run the Project
 
 ### Requirements:
-- Node.js / Python / Docker / etc.
-- API Keys (if any)
-- .env file setup (if needed)
+- Node.js  
+- Firebase Project & API Keys  
+- Stellar Account & Keys  
+- `.env` file with credentials
 
 ### Local Setup:
 ```bash
-# Clone the repo
 git clone https://github.com/your-team/project-name
-
-# Install dependencies
 cd project-name
 npm install
-
-# Start development server
 npm run dev
-```
-
-Provide any backend/frontend split or environment setup notes here.
-
----
-
-## 🧬 Future Scope
-
-List improvements, extensions, or follow-up features:
-
-- 📈 More integrations  
-- 🛡️ Security enhancements  
-- 🌐 Localization / broader accessibility  
-
----
-
-## 📎 Resources / Credits
-
-- APIs or datasets used  
-- Open source libraries or tools referenced  
-- Acknowledgements  
-
----
-
-## 🏁 Final Words
-
-Share your hackathon journey — challenges, learnings, fun moments, or shout-outs!
-
----
