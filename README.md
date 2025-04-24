@@ -91,14 +91,7 @@ The platform:
 - Stellar Account & Keys  
 - `.env` file with credentials
 
-### Local Setup:
-```bash
-git clone https://github.com/Hrishabh21/HACKSTREET-BOYS-HACKHAZARDS-25.git
-cd scholarship-portal
-npm install
-npm run dev
 
----
 
 ## 🧬 Future Scope
 
@@ -118,7 +111,6 @@ npm run dev
   Allow students and providers to download summaries of applications, funding history, and feedback.
 
 ---
-
 ## 📎 Resources / Credits
 
 - **Groq API (Mixtral-8x7B):** For blazing fast AI-based evaluation  
@@ -137,4 +129,12 @@ npm run dev
 ScholarX began as an idea, fueled by our desire to solve real-world financial accessibility issues in education. With the power of blockchain and AI, we've built something meaningful in just 36 hours. From sleepless nights to the joy of a successful deployment — this hackathon was not just a competition, but a celebration of innovation.
 
 Thank you for the opportunity. 💙
+### Local Setup:
+```bash
+git clone https://github.com/Hrishabh21/HACKSTREET-BOYS-HACKHAZARDS-25.git
+cd scholarship-portal
+npm install
+npm run dev
+
+---
 
