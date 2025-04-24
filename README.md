@@ -31,9 +31,9 @@ The platform:
 `HACKSTREET BOYS`
 
 ### Team Members:  
-- Name 1 (GitHub / LinkedIn / Role)  
-- Name 2  
-- Name 3  
+- Pritam Kumar (GitHub:-https://github.com/swebel979 / LinkedIn:-https://www.linkedin.com/in/pritam-kumar-0481281a8/ / Role :- Backend Developer and Research)  
+- Jiwandhu Kumar (GitHub:-https://github.com/jiwansh / LinkedIn:-https://www.linkedin.com/in/jiwanshu-%E2%80%8E-9b848725a/ Role:- Backend Developer and Research) 
+- Hrishabh Gupta (GitHub:-https://github.com/Hrishabh21 / LinkedIn:-https://www.linkedin.com/in/hrishabh-gupta-50442821a/ Role:- Frontend Developer and Debugger) 
 
 ### Our Approach:  
 - Chose this problem to address inefficiencies in the traditional scholarship process  
@@ -77,9 +77,9 @@ The platform:
 
 ## ✅ Tasks & Bonus Checklist
 
-- [ ] All members followed social channels and filled the form  
-- [ ] Bonus Task 1 - Shared badges (2 points)  
-- [ ] Bonus Task 2 - Signed up for Sprint.dev (3 points)
+- ✅ All members followed social channels and filled the form  
+- ✅ Bonus Task 1 - Shared badges (2 points)  
+- ✅ Bonus Task 2 - Signed up for Sprint.dev (3 points)
 
 ---
 
@@ -93,7 +93,48 @@ The platform:
 
 ### Local Setup:
 ```bash
-git clone https://github.com/your-team/project-name
-cd project-name
+git clone https://github.com/Hrishabh21/HACKSTREET-BOYS-HACKHAZARDS-25.git
+cd scholarship-portal
 npm install
 npm run dev
+
+---
+
+## 🧬 Future Scope
+
+- 📈 **Integration with KYC APIs**  
+  To enhance verification and ensure authenticity of applicants' identities.
+
+- 🛡️ **Security Audits & Blockchain Enhancements**  
+  Conduct comprehensive audits and improve smart contract logic to prevent fraud.
+
+- 🌐 **Localization and Multilingual Support**  
+  Expand accessibility by supporting regional languages and country-specific requirements.
+
+- 📊 **Admin Analytics Dashboard**  
+  Visual insights into number of applications, approval rates, and fund distribution.
+
+- 🧾 **Auto-generated Reports**  
+  Allow students and providers to download summaries of applications, funding history, and feedback.
+
+---
+
+## 📎 Resources / Credits
+
+- **Groq API (Mixtral-8x7B):** For blazing fast AI-based evaluation  
+- **Stellar SDK:** For secure and low-cost fund disbursement  
+- **Firebase & Firestore:** Authentication and real-time database  
+- **Next.js & TailwindCSS:** For a fast, responsive UI  
+- **Open Source Icons & Assets:** From [Heroicons](https://heroicons.com/) and [Undraw](https://undraw.co/)  
+- Special thanks to **Hachazards '25 Organizers**, mentors, and community members.
+
+---
+
+## 🏁 Final Words
+
+> “Technology empowers inclusion when built with empathy and purpose.”
+
+ScholarX began as an idea, fueled by our desire to solve real-world financial accessibility issues in education. With the power of blockchain and AI, we've built something meaningful in just 36 hours. From sleepless nights to the joy of a successful deployment — this hackathon was not just a competition, but a celebration of innovation.
+
+Thank you for the opportunity. 💙
+
